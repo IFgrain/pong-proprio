@@ -1,0 +1,1 @@
+global.skin_padrao = true

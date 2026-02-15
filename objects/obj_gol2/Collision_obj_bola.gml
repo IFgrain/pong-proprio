@@ -1,0 +1,1 @@
+global.gol1++; // raquete 1 faz ponto

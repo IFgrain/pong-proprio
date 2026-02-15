@@ -1,0 +1,1 @@
+global.cpu = !global.cpu

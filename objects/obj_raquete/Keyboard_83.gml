@@ -1,0 +1,1 @@
+y += spd // Define a velocidade ao se mover para baixo é a mesma que spd

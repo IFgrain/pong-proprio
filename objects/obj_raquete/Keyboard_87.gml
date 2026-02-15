@@ -1,0 +1,1 @@
+y -= spd; // define a velocidade de movimento da raquete para o mesmo valor da velocidade

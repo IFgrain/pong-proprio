@@ -1,0 +1,1 @@
+speed =2; // Quando o alarm disparar, a velocidade da bola vais ser 2
