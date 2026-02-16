@@ -10,7 +10,7 @@
   "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":121.18204,
+  "duration":181.48457,
   "exportDir":"",
   "name":"sfx_music",
   "parent":{
@@ -22,5 +22,5 @@
   "resourceVersion":"2.0",
   "sampleRate":44100,
   "soundFile":"sfx_music.mp3",
-  "volume":1.0,
+  "volume":0.8,
 }
